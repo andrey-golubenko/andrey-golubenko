@@ -1,4 +1,4 @@
-<img src="github_banner.jpg" alt="GitHub Banner" width="100%" height="370px"     border-radius="10px"/>
+<img src="github_banner.jpg" alt="GitHub Banner" width="100%" height="370px" style="max-width: 100%;border-radius: 10px;"/>
 
 ## Hi there 👋 , I'm Andrii, a Web Developer:
 
