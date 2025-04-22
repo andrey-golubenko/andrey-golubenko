@@ -6,7 +6,7 @@
 
 👨🏼‍💻 Working as a web developer since 2021
 
-🛜 Currently learning PHP, databases and working on becoming a full-stack developer
+🛜 Currently working on becoming a full-stack developer
 
 🌍 Based in Germany
 
@@ -18,7 +18,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-holubenko) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-holubenko-a42bb9181/) 
 
 
 # 💻 Tech Stack:
